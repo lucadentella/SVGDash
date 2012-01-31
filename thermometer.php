@@ -30,14 +30,3 @@
 	header("Content-type: image/svg+xml");
 	echo $svg_template->asXML();
 ?>
-029996789
-
-blocco 800846484
-fax 0234889236
-fax 0234884732
-
-cod blocco er1958
-fotocopia cdc fronte retro
-dichiarazione di non riconoscimento e transazioni 18/01
-data firma recapito telefonico
-
